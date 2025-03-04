@@ -1,16 +1,17 @@
 # 📌 Automated Testing of LLM (GPT-4o) API with Python
 
-## 🎯 **Project Overview**
+🎯 Project Overview
 
-This project focuses on **automated testing of Large Language Models (LLMs)** using **OpenAI's GPT-4o-mini**. The goal is to ensure that the model provides **accurate, grammatically correct, and reliable responses** in different scenarios.
+This project focuses on automated testing of Large Language Models (LLMs) using OpenAI's GPT-4o-mini. The goal is to ensure that the model provides accurate, grammatically correct, and reliable responses in different scenarios.
 
-## 🔹 **Key Features**
+🔹 Key Features
 
-✅ **Functional Testing** – Verifies the correctness of factual responses.
-✅ **Grammar & Rephrasing Tests** – Ensures correct sentence structure.
-✅ **Automated Test Execution** – Uses **Pytest** for validation.
-✅ **Prompt Engineering** – Optimizes responses using different role settings.
-✅ **Customizable API Calls** – Adjusts `temperature`, `max_tokens`, and other parameters.
+✅ Functional Testing – Verifies the correctness of factual responses.
+✅ Grammar & Rephrasing Tests – Ensures correct sentence structure.
+✅ Automated Test Execution – Uses Pytest for validation.
+✅ Prompt Engineering – Optimizes responses using different role settings.
+✅ Customizable API Calls – Adjusts temperature, max_tokens, and other parameters.
+✅ BLEU Score Evaluation – Compares generated and expected responses.
 
 ---
 
